@@ -1,6 +1,6 @@
 ## Postdoctoral research scientist in statistical genetics and complex trait epidemiology
 
-Dr. Suzanne Leal's group at Columbia University Department of Neurology is looking for a qualified candidate for a **Postdoctoral research scientist** position. The candidate is expected to work on one or more of the following concentrations:
+Dr. Suzanne Leal's group in the Center for [Statistical Genetics](neurology.columbia.edu/research/research-programs-and-partners/center-statistical-genetics/) at Columbia University Department of Neurology is looking for a qualified candidate for a **Postdoctoral research scientist** position. The candidate is expected to work on one or more of the following concentrations:
 
 1. Developing statistical methods to analyze complex traits, e.g. approaches to detect pleiotropy and interactions using sequence, imputed, family and population-based data.
 2. Developing statistical and computational methods for family and population based genetic association studies.
